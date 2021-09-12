@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include "busca.h"
 
 int busca_dado (lista *Lista, int val, struct dados *dp){
